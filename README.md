@@ -1,10 +1,12 @@
 # CSS 410 Research tools and methods
 ## Team members
-+ **Jet Lee** (*180100012*)- Backend Developer (GitHub account: *jetlee*)
-+ **Jacky Chan** (*180100013*) - Frontend Developer (GitHub account: *jackychan*)
++ **Yerzhan Mamatov** (*180103119*)- Project Manager (GitHub account: *mamatovv*)
++ **Zhanserik Bolat** (*180103308*) - Frontend Developer (GitHub account: *yummyyuppie*)
++ **Berikuly Azamat** (*180103244*) - Data Engeneer (GitHub account: *AzamatBerikuly*)
++ **Zhangabaev Mukhammed** (*180103063*) - Data Engeneer (GitHub account: *Mukhammed7887*)
 
 ## Project
-This project is yet-another clone of Instagram
+This project is a platform for school graduates, where they can see the probability of entering the university based on UNT scores. 
 
 ## Alternatives / Market research
 | Research alternatives
@@ -12,7 +14,7 @@ This project is yet-another clone of Instagram
 ## Goals
 
 ## Technologies
-In our project we use **Laravel**, **VueJS**
+In our project we use **ReactJS**, **Python**
 
 ## Pages / Activities 
 We will have following pages:
