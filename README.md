@@ -44,7 +44,7 @@ There is a section called "Mamandyk" - where you can find out the chances for ad
 After entering the data, the chance of admission to a general grant for the chosen specialty or profession is calculated. When using the application I noticed that: If we specify 2-4 specialties, the greatest chance of admission to a grant from these specialties is shown. And as a user, it is not clear to me which specialty this high chance belongs to. You can solve this problem by introducing specialties separately. But this is firstly long, and secondly limited to 4 specialties. In our thesis, we want to accelerate this and show all possible chances for all specialties in the selected profile subjects.
   
   
- Analogues of similar sites in Russia: 1) https://postupi.online/ 2) https://vuzopedia.ru/ 3) https://www.ucheba.ru/for-abiturients/ege/select-vuz
+ Analogues of similar sites in Russia:  1) https://postupi.online/  2) https://vuzopedia.ru/  3) https://www.ucheba.ru/for-abiturients/ege/select-vuz
  
 
 
