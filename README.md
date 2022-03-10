@@ -9,31 +9,42 @@
 This project is a platform for school graduates, where they can see the probability of entering the university based on UNT scores. 
 
 ## Alternatives / Market research
-Сайт похожие с нашей идеи:
+The site is similar to our idea:
 1) https://studypage.net/calculator-ent
 <img width="467" alt="image" src="https://user-images.githubusercontent.com/44193714/157761481-c674c499-db94-4094-889e-af6ebaaaeb59.png">
 
- Есть раздел под названием “Калькулятор ЕНТ” -  где можно узнать шансы для поступления в ВУЗ.  Пользователь вводит свои данные: - Профильные предметы - Язык (казахский/русский) - Набранные баллы по 2 профильным и 3 основным предметам   После ввода данных и нажатия кнопки “Узнать шансы”- показывает шансы поступить на грант с 3 разными группами шансов (высокий/средний/низкий) и шансы поступить на платное. Группы шансов сортированы по убыванию по проходному баллу ЕНТ.
- Нужно отметить что грант присуждается на группу образавательных программ, и при выводе шансов лучше было бы выводить топовые образавательные программы с большими проходными баллами – и потом выводить университеты и т. д. Это мы хотим реализовать в нашей дипломной работе. 
+ There is a section called "UNT Calculator" - where you can find out the chances for admission to a university. The user enters his data: - Specialized subjects - Language (Kazakh/Russian) - Points scored in 2 profile and 3 main subjects   
+ <img width="467" alt="image" src="https://user-images.githubusercontent.com/44193714/157761577-08680903-b0fe-4836-be0c-426742c547c9.png">
+
+ 
+ 
+ After entering the data and clicking the "Find out the odds" button, it shows the chances of applying for a grant with 3 different groups of chances (high/medium/low) and the chances of applying for a fee. The groups of chances are sorted in descending order by the passing score of the UNT.
+It should be noted that the grant is awarded for a group of educational programs, and when calculating the chances, it would be better to output top educational programs with high passing scores – and then output universities, etc. We want to implement this in our thesis.
 
 2) https://www.alem-edu.kz/
-
-Есть раздел под названием “Калькулятор ЕНТ” -  где можно узнать шансы для поступления в ВУЗ.
-Пользователь вводит свои данные: - Профильные предметы 1 и 2 - Язык обучения (казахский/русский) - Наличие сельской квоты - Баллы ЕНТ
-
-После ввода данных и нажатия кнопки “Узнать шансы” – предлагается выбрать сферу и специальность до 3 раз. 
+![image](https://user-images.githubusercontent.com/44193714/157761612-ab26aebd-cf27-4934-80e6-fdb45fe6ef75.png)
 
 
+There is a section called "UNT Calculator" - where you can find out the chances for admission to a university.
+The user enters his data: - Profile subjects 1 and 2 - Language of instruction (Kazakh/Russian) - Availability of rural quota - UNT points
+![image](https://user-images.githubusercontent.com/44193714/157761671-02b78371-9ac1-462f-8dc4-498313e79e08.png)
 
-После отправки – выводится список выбранных специальности и вуз.   Если посмотреть как пользователь: Не хватает вероятности шансов или проходные баллы на выбранные специальности. В нашей дипломной работе мы хотели бы показать вероятность вступления на грант на каждую образовательную программу с дополнительной информацией таких как проходной балл, количество грантов на 2021-2022, 2022-2023 и распределение грантов на вузы.
 
-3) https://Joo.kz - приложение
+After entering the data and clicking the "Find out the odds" button, it is suggested to choose the field and specialty up to 3 times. 
+![image](https://user-images.githubusercontent.com/44193714/157761701-a5476ef7-eff4-4abe-ba99-798a5494a2a6.png)
 
-Есть раздел под названием “Мамандық” -  где можно узнать шансы для поступления в ВУЗ.  Пользователь вводит свои данные: - Профильные предметы 1 и 2 - Наличие сельской квоты - Баллы ЕНТ - 4 выбранных специальности или сферы профессии.
-После ввода данных рассчитывается шанс поступления на общий грант под выбранную специальность или сферу профессии.   При использовании приложения заметил что: Если мы указываем 2-4 специальности показывается самый большой шанс поступления на грант из этих специальности. И мне как пользователю не понятно на какой специальность принадлежит этот высокий шанс. Можно решить эту проблему, вводя специальности по отдельности. Но это во-первых долго, во-вторых ограничено 4 специальностями.  В нашей дипломной работе мы хотим это ускорить и показать все возможные шансы на все специальности по выбранным профильным предметам.
+
+After sending– a list of selected specialties and universities is displayed. If you look like a user: There is not enough probability of chances or passing points for the chosen specialties. In our thesis, we would like to show the probability of applying for a grant for each educational program with additional information such as the passing score, the number of grants for 2021-2022, 2022-2023 and the distribution of grants to universities.
+
+3) https://Joo.kz - application
+<img width="150" alt="image" src="https://user-images.githubusercontent.com/44193714/157761718-4e2a0774-5178-4e54-8a54-f99784481034.png">
+
+
+There is a section called "Mamandyk" - where you can find out the chances for admission to a university. The user enters his data: - Profile subjects 1 and 2 - Availability of rural quotas - UNT scores - 4 selected specialties or areas of profession.
+After entering the data, the chance of admission to a general grant for the chosen specialty or profession is calculated. When using the application I noticed that: If we specify 2-4 specialties, the greatest chance of admission to a grant from these specialties is shown. And as a user, it is not clear to me which specialty this high chance belongs to. You can solve this problem by introducing specialties separately. But this is firstly long, and secondly limited to 4 specialties. In our thesis, we want to accelerate this and show all possible chances for all specialties in the selected profile subjects.
   
   
-  Аналоги похожих сайтов в России: 1) https://postupi.online/ 2) https://vuzopedia.ru/ 3) https://www.ucheba.ru/for-abiturients/ege/select-vuz
+ Analogues of similar sites in Russia: 1) https://postupi.online/ 2) https://vuzopedia.ru/ 3) https://www.ucheba.ru/for-abiturients/ege/select-vuz
  
 
 
