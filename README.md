@@ -37,7 +37,10 @@ After entering the data and clicking the "Find out the odds" button, it is sugge
 After sending– a list of selected specialties and universities is displayed. If you look like a user: There is not enough probability of chances or passing points for the chosen specialties. In our thesis, we would like to show the probability of applying for a grant for each educational program with additional information such as the passing score, the number of grants for 2021-2022, 2022-2023 and the distribution of grants to universities.
 
 3) https://Joo.kz - application
+<img width="146" alt="image" src="https://user-images.githubusercontent.com/44193714/157813390-aa1589ae-2e9e-4627-ae39-c6c91549e55a.png">
+
 <img width="150" alt="image" src="https://user-images.githubusercontent.com/44193714/157761718-4e2a0774-5178-4e54-8a54-f99784481034.png">
+<img width="150" alt="image" src="https://user-images.githubusercontent.com/44193714/157813411-62c4260f-de58-4962-802d-334bf9ad5034.png">
 
 
 There is a section called "Mamandyk" - where you can find out the chances for admission to a university. The user enters his data: - Profile subjects 1 and 2 - Availability of rural quotas - UNT scores - 4 selected specialties or areas of profession.
