@@ -54,7 +54,7 @@ After entering the data, the chance of admission to a general grant for the chos
 ## Goals
 
 ## Technologies
-In our project we use **ReactJS**, **Python**
+In our project we use **VueJS**, **Python**
 
 ## Pages / Activities 
 We will have following pages:
